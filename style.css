@@ -1,0 +1,43 @@
+  body {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 25px;
+    text-align: justify;
+    background-color: rgba(104, 104, 104, 0.193);
+  }
+
+  .foto_perfil {
+    height: 170px;
+    border-radius: 50%;
+    border-color: rgb(238, 124, 177);
+    border-style: solid;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .botao {
+    color: rgb(255, 255, 255);
+    background: rgb(238, 124, 177);
+    padding: 15px;
+    margin: 50px;
+    text-decoration: none;
+  }
+
+
+  .botao_links {
+    color: black;
+    background: rgba(238, 124, 177, 0.357);
+    padding: 10px;
+    margin: 20px;
+    text-decoration: none;
+  }
+
+
+  .centralizar {
+    text-align: center;
+    line-height: 75px;
+  }
+
+  h2 {
+    color: rgb(0, 0, 0);
+  }
