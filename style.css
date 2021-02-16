@@ -5,8 +5,8 @@
     background-color: rgba(104, 104, 104, 0.193);
   }
 
-  .foto_perfil {
-    height: 170px;
+  .foto-perfil {
+    height: 250px;
     border-radius: 50%;
     border-color: rgb(238, 124, 177);
     border-style: solid;
@@ -23,8 +23,7 @@
     text-decoration: none;
   }
 
-
-  .botao_links {
+  .botao-links {
     color: black;
     background: rgba(238, 124, 177, 0.357);
     padding: 10px;
@@ -32,10 +31,22 @@
     text-decoration: none;
   }
 
+  .espacamento-links {
+    margin-top: 50px;
+  }
 
   .centralizar {
     text-align: center;
     line-height: 75px;
+  }
+
+  .italico {
+    font-style: italic;
+  }
+
+  .espaco-limitado {
+    width: 50%;
+    margin: auto;
   }
 
   h2 {
