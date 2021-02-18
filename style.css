@@ -21,16 +21,16 @@
     border-color: rgba(228, 89, 65, 0.597);
     border-style: solid;
     margin-top: 115px;
-   }
+  }
 
-   .flecha {
-     margin-top: 50px;
-     height: 50px;
-   }
+  .flecha {
+    margin-top: 50px;
+    height: 50px;
+  }
 
-   .redes-sociais {
-     height: 50px;
-    }
+  .redes-sociais {
+    height: 50px;
+  }
 
   .botao-links {
     color: black;
@@ -42,7 +42,7 @@
 
   .espacamento-links {
     margin-top: 50px;
-    margin-bottom: 190px;
+    margin-bottom: 150px;
   }
 
   .centralizar {
@@ -68,4 +68,3 @@
   h4 {
     margin-top: 100px;
   }
- 
