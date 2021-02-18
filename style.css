@@ -42,6 +42,7 @@
 
   .espacamento-links {
     margin-top: 50px;
+    margin-bottom: 190px;
   }
 
   .centralizar {
@@ -64,4 +65,7 @@
     font-size: 50px;
   }
 
+  h4 {
+    margin-top: 100px;
+  }
  
