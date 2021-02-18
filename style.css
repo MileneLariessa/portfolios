@@ -1,31 +1,40 @@
   body {
-    font-family: 'Montserrat', sans-serif;
-    line-height: 25px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 30px;
+    line-height: 35px;
     text-align: justify;
     background-color: rgba(104, 104, 104, 0.193);
+    margin: 0;
+  }
+
+  .topo {
+    background-color: rgba(228, 89, 65, 0.597);
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    height: 250px;
   }
 
   .foto-perfil {
     height: 250px;
     border-radius: 50%;
-    border-color: rgb(238, 124, 177);
+    border-color: rgba(228, 89, 65, 0.597);
     border-style: solid;
-    margin-top: 50px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-top: 115px;
   }
 
-  .botao {
-    color: rgb(255, 255, 255);
-    background: rgb(238, 124, 177);
-    padding: 15px;
-    margin: 50px;
-    text-decoration: none;
+  .flecha {
+    margin-top: 50px;
+    height: 50px;
+  }
+
+  .redes-sociais {
+    height: 50px;
   }
 
   .botao-links {
     color: black;
-    background: rgba(238, 124, 177, 0.357);
+    background: rgba(228, 89, 65, 0.296);
     padding: 10px;
     margin: 20px;
     text-decoration: none;
@@ -33,11 +42,11 @@
 
   .espacamento-links {
     margin-top: 50px;
+    margin-bottom: 150px;
   }
 
   .centralizar {
     text-align: center;
-    line-height: 75px;
   }
 
   .italico {
@@ -45,10 +54,17 @@
   }
 
   .espaco-limitado {
-    width: 50%;
+    width: 60%;
     margin: auto;
   }
 
   h2 {
+    margin-top: 140px;
     color: rgb(0, 0, 0);
+    font-family: 'Lobster Two', cursive;
+    font-size: 50px;
+  }
+
+  h4 {
+    margin-top: 100px;
   }
